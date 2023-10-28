@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming of web and mobile application development
 - 🌱 I’m currently learning advance JavaScript, React, Angular and NextJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [sanaullah87250@gmail.com](url)
+- 📫 How to reach me sanaullah87250@gmail.com
 
 <!---
 Sanaullahabbasi/Sanaullahabbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
