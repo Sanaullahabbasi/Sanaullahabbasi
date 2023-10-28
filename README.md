@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Sanaullahabbasi #
- **  `I'm, a full-stack developer with a keen interest in turning ideas into reality through code. I'm on a mission to create clean, efficient, and user-centric applications that leave a lasting impact ` **
+** `I'm, a full-stack developer with a keen interest in turning ideas into reality through code. I'm on a mission to create clean, efficient, and user-centric applications that leave a lasting impact `**
 - 👀 I’m interested in programming of web and mobile application development
 - 🌱 I’m currently learning advance JavaScript, React, Angular and NextJS
 - 💞️ I’m looking to collaborate on ...
